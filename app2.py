@@ -19,7 +19,7 @@ def app():
         st.title("🕹️ GPT-3 Sandbox")
 
         st.write(f"""
-        ## Made with ❤️ for 🤖 by FitCommunity.Ai
+        ## Made with ❤️ for 🤖 by FitCommunity.Ai ~ September 2021
         """)
         st.write("_This Sandbox will help you create & deploy OpenAI API powered app with a few lines of Python_")
         
